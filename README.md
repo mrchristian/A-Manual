@@ -12,7 +12,7 @@ Note: The style is configured for document typesetting and not book typesetting,
 
 Contents:
 
-- CSS file
+- CSS files
 - Fonts
 - Images (Logo)
 - Sample content Fidus Writer source files (optional)
